@@ -1,0 +1,27 @@
+form {
+  margin: 0 auto;
+  width: 30%;
+  background-color: #ccc;
+  padding: 2%;
+}
+
+form>* {
+  width: 100%;
+  margin: 2% 0;
+}
+
+.blue {
+border: solid 1px blue;
+}
+
+.black {
+border: solid 1px black;
+}
+
+.green {
+border: solid 1px green;
+}
+
+.red {
+border: solid 1px red;
+}
